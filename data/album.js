@@ -13,7 +13,7 @@ window.album = {
     ],
     technicalCredits: {
         production: ["César Augusto e Nil Bernardes"],
-        direction: ["Ronaldo Viana"],
+        direction: ["Miguel Plopschi"],
         arrangements: ["Sérgio Viana"],
         recording: ["Mosh Studios (SP)"],
         mixing: ["Luis Paulo Serafin / César Augusto"],
